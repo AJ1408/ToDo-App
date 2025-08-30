@@ -10,11 +10,15 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/todo")
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "http://localhost:5173/")
 public class Controller {
-
     @Autowired
     private TodoService service ;
+
+//    @GetMapping("/hello")
+//    public String greet(){
+//        return "Hello World";
+//    }
 
     //Get all todo
     @GetMapping
