@@ -13,6 +13,8 @@ A simple **To-Do List** application built with **React** (Frontend) and **Spring
 ---
 <img width="1491" height="886" alt="image" src="https://github.com/user-attachments/assets/930136bb-0c41-4c4c-820e-2590cf13b942" />
 
+<img width="1496" height="895" alt="image" src="https://github.com/user-attachments/assets/2f42cce3-6dea-43a3-88ac-3719a8535302" />
+
 
 ## Technologies Used
 
